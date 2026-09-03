@@ -10,3 +10,11 @@ CS110 WEEK 2: DOME SIGNAL STARTER
    publish it to GitHub.
 
 Return to the Week 2 assignment for the complete requirements and Canvas link.
+
+I finished my website with the javascript, It will be published to github pages 
+
+https://lexicon-lexxie.github.io/CS110-Dome-Signal-Starter/
+
+
+
+
